@@ -1,0 +1,6 @@
+notes/
+node_modules/
+.cache/
+*.log
+preview-*.png
+preview-*.jpg
