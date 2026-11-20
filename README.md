@@ -2,7 +2,7 @@
 
 Подарочная концепция сайта с прямыми переходами в сообщество ВКонтакте, телефон и Яндекс Карты. Без форм, базы данных, аналитических трекеров и сторонних JavaScript-библиотек.
 
-Сайт: https://zaharl-torrero.github.io/drug-vet-togliatti/
+Сайт: https://microvalet.github.io/drug-vet-togliatti/
 
 ## Публикация
 
